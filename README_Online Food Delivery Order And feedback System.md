@@ -1,6 +1,3 @@
-
-### 📄 README.md
-
 #  Online Food Delivery Order & Feedback System
 
 This project is a SQL-based backend system built to manage online food delivery workflows, from order placement to customer feedback. It is designed using SQL Developer and includes triggers, procedures, views, and relational constraints.
