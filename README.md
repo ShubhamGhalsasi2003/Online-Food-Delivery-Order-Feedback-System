@@ -1,3 +1,9 @@
+![Flask](https://img.shields.io/badge/Tool-Flask-black) ![SQL](https://img.shields.io/badge/Tool-SQLDeveloper-darkgreen) ![PLSQL](https://img.shields.io/badge/Tool-PL%2FSQL-purple)  
+![Feedback](https://img.shields.io/badge/Data-Customer_Feedback-orange)  
+![Completed](https://img.shields.io/badge/Status-Completed-success)  
+
+
+
 #  Online Food Delivery Order & Feedback System
 
 This project is a SQL-based backend system built to manage online food delivery workflows, from order placement to customer feedback. It is designed using SQL Developer and includes triggers, procedures, views, and relational constraints.
