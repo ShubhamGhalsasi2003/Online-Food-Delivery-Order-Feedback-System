@@ -10,7 +10,7 @@ This project is a SQL-based backend system built to manage online food delivery 
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 To simulate and manage the backend operations of an online food delivery platform that handles:
 - Customer orders
@@ -19,7 +19,7 @@ To simulate and manage the backend operations of an online food delivery platfor
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 - **MySQL / Oracle SQL**
 - **PL/SQL Constructs (Triggers, Procedures)**
@@ -27,18 +27,18 @@ To simulate and manage the backend operations of an online food delivery platfor
 
 ---
 
-## 🛠️ Key Features
+##  Key Features
 
-- 📦 **Order Management**  
+-  **Order Management**  
   Create, update, and track food orders with delivery assignments.
 
-- 🚴 **Delivery Monitoring**  
+-  **Delivery Monitoring**  
   Keep records of delivery staff, delivery times, and performance.
 
-- ⭐ **Feedback System**  
+- **Feedback System**  
   Customers can rate and provide feedback on their experience.
 
-- 🔐 **Data Integrity**  
+-  **Data Integrity**  
   Enforced using:
   - Foreign key constraints
   - Triggers for validation
@@ -46,7 +46,7 @@ To simulate and manage the backend operations of an online food delivery platfor
 
 ---
 
-## 🗂️ Database Structure
+##  Database Structure
 
 Typical entities in this system may include:
 - `Customers`  
@@ -57,7 +57,7 @@ Typical entities in this system may include:
 - `MenuItems`
 
 
-## 🔄 SQL Components Used
+## SQL Components Used
 
 | Component   | Description                                 |
 |------------|---------------------------------------------|
@@ -69,7 +69,7 @@ Typical entities in this system may include:
 
 ---
 
-## 🧪 Sample SQL Snippets
+## Sample SQL Snippets
 
 sql
 CREATE OR REPLACE TRIGGER prevent_invalid_rating
@@ -82,7 +82,7 @@ BEGIN
 END;
 
 
-## ✅ How to Use
+##  How to Use
 
 1. Open the project in **SQL Developer**.
 2. Run the provided SQL scripts to create the schema.
@@ -92,7 +92,7 @@ END;
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Shubham Ghalsasi**
 Final Year B.Tech – Cloud Computing
