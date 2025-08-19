@@ -21,7 +21,6 @@ To simulate and manage the backend operations of an online food delivery platfor
 
 ## 🧰 Tools & Technologies
 
-- **SQL Developer**
 - **MySQL / Oracle SQL**
 - **PL/SQL Constructs (Triggers, Procedures)**
 - **Views and Relational Constraints**
