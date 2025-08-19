@@ -1,4 +1,4 @@
-![Mysql](https://img.shields.io/badge/Tool-Mysql-darkgreen) ![PLSQL](https://img.shields.io/badge/Tool-PL%2FSQL-purple)  
+![Mysql](https://img.shields.io/badge/Tool-Mysql-darkgreen) ![PLSQL(Trigger)](https://img.shields.io/badge/Tool-PL%2FSQL-purple)  
 ![Feedback](https://img.shields.io/badge/Output-Customer_Feedback-orange)  
 ![Completed](https://img.shields.io/badge/Status-Completed-success)  
 
